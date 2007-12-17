@@ -10,7 +10,6 @@ License: GPL
 Group: Archiving/Backup
 Source: %name-%version.tar.bz2
 Patch0: buffer_1.19-7.patch.bz2
-BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 This is a program designed to speed up writing tapes on remote tape
