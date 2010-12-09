@@ -1,6 +1,6 @@
 %define name buffer
 %define version 1.19
-%define release %mkrel 8
+%define release %mkrel 9
 
 Summary: General purpose buffer program
 Name: %name
