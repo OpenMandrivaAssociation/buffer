@@ -1,2 +1,3 @@
 sources:
-  "buffer-1.19.tar.bz2:"	a0cabeeb2aea66c94d217aa7bca65d28a755fc63
+  "buffer-1.19.tar.bz2": a0cabeeb2aea66c94d217aa7bca65d28a755fc63
+  "buffer_1.19-7.patch.bz2": d6970999503c54d4a7b31fe91a27bbd41817f53c
