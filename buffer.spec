@@ -1,7 +1,7 @@
 Summary:	General purpose buffer program
 Name:		buffer
 Version:	1.19
-Release:	10
+Release:	11
 License:	GPLv2+
 Group:		Archiving/Backup
 Source0:	%{name}-%{version}.tar.bz2
