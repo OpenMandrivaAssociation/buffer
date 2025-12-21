@@ -7,6 +7,7 @@ Group:		Archiving/Backup
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		buffer_1.19-7.patch.bz2
 
+BuildRequires:	make
 %description
 This is a program designed to speed up writing tapes on remote tape
 drives. After startup it splits itself into two processes. The first
